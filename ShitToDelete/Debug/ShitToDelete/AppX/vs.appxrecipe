@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-ECCF750</Machine>
+    <WindowsUser>Fam. Cortes Marquez</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>25f99f96-8ccd-4007-9d45-78c80b012e84</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Fam. Cortes Marquez</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>588E36EC8668DECACEB7D54589E46B0EDD77D3BC1AD6FDC3F052D1A9805B30EC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>25f99f96-8ccd-4007-9d45-78c80b012e84_1.0.0.0_x86__xb62sc0rv3z8j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>25f99f96-8ccd-4007-9d45-78c80b012e84_xb62sc0rv3z8j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>25f99f96-8ccd-4007-9d45-78c80b012e84</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Fam. Cortes Marquez</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-23T22:07:54.906</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\ShitToDelete.exe">
+      <PackagePath>ShitToDelete.exe</PackagePath>
+      <Modified>2016-08-23T22:07:50.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\ShitToDelete.winmd">
+      <PackagePath>ShitToDelete.winmd</PackagePath>
+      <Modified>2016-08-23T22:07:50.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\ShitToDelete\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2016-08-23T22:07:26.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2016-08-23T22:07:26.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.14393.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2016-07-28T13:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fam. Cortes Marquez\Documents\GitHub\Procesamiento de Imagenes\ShitToDelete\Debug\ShitToDelete\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-23T22:07:53.578</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
